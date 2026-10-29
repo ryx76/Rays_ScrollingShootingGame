@@ -1,4 +1,3 @@
-# Rays_ScrollingShootingGame
 # Ray's Scrolling Shooting Game
 
 ## [▶ PLAY THE GAME ONLINE](https://ryx76.github.io/Rays_ScrollingShootingGame/)
