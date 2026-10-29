@@ -1,6 +1,6 @@
 # /// script
 # requires-python = ">=3.11"
-# dependencies = ["pygame-ce==2.5.3"]
+# dependencies = ["pygame-ce"]
 # ///
 """Python port of Yixuan Rui's Processing aircraft game."""
 import asyncio
