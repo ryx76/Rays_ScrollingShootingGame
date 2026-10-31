@@ -1,0 +1,32 @@
+[1mdiff --git a/README.md b/README.md[m
+[1mindex 4893609..c5d92cd 100644[m
+[1m--- a/README.md[m
+[1m+++ b/README.md[m
+[36m@@ -6,7 +6,12 @@[m
+ [m
+ Wait for **Ready to start**, click to launch, then press **Space** to begin. If the controls do not respond, click inside the game and switch to English input mode.[m
+ [m
+[31m----[m
+[32m+[m[32m## Screenshot[m
+[32m+[m[32m<p align="center">[m
+[32m+[m[32m  <img src="docs/ScreenShot_1.png" alt="Game Start" width="45%">[m
+[32m+[m[32m  <img src="docs/ScreenShot_2.png" alt="Game Pause" width="45%">[m
+[32m+[m[32m</p>[m
+[32m+[m
+ [m
+ ## About the Game[m
+ [m
+[36m@@ -38,6 +43,13 @@[m [mSwitching away from the game window automatically pauses the game. Return to the[m
+ - Enemy spawning becomes more demanding over time.[m
+ - When lives reach zero, the game-over screen appears with the final score. Press **Space** to start another round.[m
+ [m
+[32m+[m[32m## Known Limitations[m
+[32m+[m
+[32m+[m[32mThe browser version requires an internet connection, and initial loading may take some time.[m[41m [m
+[32m+[m[32mThe game is designed for desktop keyboard controls and does not support mobile touch input.[m[41m [m
+[32m+[m[32mAudio is not included.[m
+[32m+[m
+[32m+[m
+ ## Run Locally[m
+ [m
+ Install [uv](https://docs.astral.sh/uv/), then run these commands in a terminal:[m

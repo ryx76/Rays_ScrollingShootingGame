@@ -6,7 +6,12 @@
 
 Wait for **Ready to start**, click to launch, then press **Space** to begin. If the controls do not respond, click inside the game and switch to English input mode.
 
----
+## Screenshot
+<p align="center">
+  <img src="docs/ScreenShot_1.png" alt="Game Start" width="45%">
+  <img src="docs/ScreenShot_2.png" alt="Game Pause" width="45%">
+</p>
+
 
 ## About the Game
 
@@ -37,6 +42,13 @@ Switching away from the game window automatically pauses the game. Return to the
 - Player bullets and enemy bullets cancel each other when they collide.
 - Enemy spawning becomes more demanding over time.
 - When lives reach zero, the game-over screen appears with the final score. Press **Space** to start another round.
+
+## Known Limitations
+
+The browser version requires an internet connection, and initial loading may take some time. 
+The game is designed for desktop keyboard controls and does not support mobile touch input. 
+Audio is not included.
+
 
 ## Run Locally
 
